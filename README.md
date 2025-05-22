@@ -1,4 +1,4 @@
-# 🧩 Soal 5 - Pokemon App with React Hooks
+# 🧩 Pokemon App with React Hooks
 
 ## 📌 Deskripsi Tugas
 Project ini merupakan implementasi Tugas 5 dari mata kuliah Web CLient Development. Aplikasi ini menampilkan daftar Pokémon dengan React Hooks dan data diambil langsung dari public API [PokeAPI](https://pokeapi.co/).
